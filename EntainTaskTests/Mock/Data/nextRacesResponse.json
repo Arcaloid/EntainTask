@@ -1,0 +1,399 @@
+{
+   "status":200,
+   "data":{
+      "next_to_go_ids":[
+         "8e118c26-644c-4341-84c3-848158cd6022",
+         "a5947c14-e28d-4720-b381-14a8b54e55cb",
+         "70528241-b299-4713-9da0-8348e8b14d91",
+         "c4a49f5f-5d1d-4553-b50e-e07f8f4c2420",
+         "dddd78be-bca2-4dbf-91d5-51ea6cc12711",
+         "e8d85333-d454-46ac-8010-fb55e7d8b3cf",
+         "21e8df96-dd01-4f02-b4c9-f68f4159fa3b",
+         "7e4412de-869d-4744-8a4f-618fe2268efc",
+         "24738e72-d0e5-425b-abf6-dce0ab504b47",
+         "ecf36050-c47e-4f8a-ba3d-337ba9d23b1a"
+      ],
+      "race_summaries":{
+         "21e8df96-dd01-4f02-b4c9-f68f4159fa3b":{
+            "race_id":"21e8df96-dd01-4f02-b4c9-f68f4159fa3b",
+            "race_name":"415Mtrs (A7)",
+            "race_number":5,
+            "meeting_id":"ef5c5da0-9844-4da5-a08c-f2b49ba67aa6",
+            "meeting_name":"Harlow Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730115480
+            },
+            "race_form":{
+               "distance":415,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"BARGAIN BLISS (2) is down a grade after finishing sixth two starts back at this track then was again out of the placings at his latest appearance in an A6 at this track over 415m (28.07). Key chance this easier class. Go well. NOTIMETOSPARE (5) produced a modest effort most recently when fifth at this track over 415m behind Glenadda Poppy (28.61) in an A7. Was a winner prior to that. Key player if finds best. BLACK GEM (4) is a capable type and proved too classy last time to win by 3 lengths at this track in a handy 27.87 beating Livinginthedream. The form out of the last run is proven to be strong. Has hit winning form and can go on with it. CHATELAINE (6) is a talented type and proved too strong last time to win by 2 lengths at this track in a handy 27.76 beating BOHERNA BRADY. Can make it two on the bounce.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Harlow Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":5,\"race_name\":\"415Mtrs (A7)\",\"time\":\"2024-10-28T11:38:00Z\",\"class\":\"A7\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":687},\"localised_prizemonies\":{\"AUD\":{\"1st\":203,\"2nd\":97,\"3rd\":97,\"4th\":97,\"5th\":97,\"6th\":97,\"total_value\":687},\"NZD\":{\"1st\":221,\"2nd\":106,\"3rd\":106,\"4th\":106,\"5th\":106,\"6th\":106,\"total_value\":749}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"BARGAIN BLISS (2) is down a grade after finishing sixth two starts back at this track then was again out of the placings at his latest appearance in an A6 at this track over 415m (28.07). Key chance this easier class. Go well. NOTIMETOSPARE (5) produced a modest effort most recently when fifth at this track over 415m behind Glenadda Poppy (28.61) in an A7. Was a winner prior to that. Key player if finds best. BLACK GEM (4) is a capable type and proved too classy last time to win by 3 lengths at this track in a handy 27.87 beating Livinginthedream. The form out of the last run is proven to be strong. Has hit winning form and can go on with it. CHATELAINE (6) is a talented type and proved too strong last time to win by 2 lengths at this track in a handy 27.76 beating BOHERNA BRADY. Can make it two on the bounce."
+            },
+            "venue_id":"630485d1-2812-4965-80c1-a84c8f71b4b5",
+            "venue_name":"Harlow Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         },
+         "24738e72-d0e5-425b-abf6-dce0ab504b47":{
+            "race_id":"24738e72-d0e5-425b-abf6-dce0ab504b47",
+            "race_name":"Hard Style Rico @ Stud (275+Rank)",
+            "race_number":11,
+            "meeting_id":"ca2909d4-551d-44f1-a5dd-72a52c4152c5",
+            "meeting_name":"Sandown Park",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730115720
+            },
+            "race_form":{
+               "distance":515,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+                  "name":"OCAST",
+                  "short_name":"ocast",
+                  "icon_uri":"OCAST"
+               },
+               "weather_id":"5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+               "race_comment":"FIGHTING BOXER (8) was midfield throughout and finished there last time when 5th (30.26) at this track. Has ability and can bounce back. WANDANA LAD (4) filled the minor money two on end before breaking through for a deserved win last time, scoring at this track over 515m (29.98). Should feature again. TARGET RANGE (1) has been settling off the speed lately, finishing seventh (26.44) last time in a Grade 4/5 at Warragul. Solid record here winning two races. Solid formlines coming through her last run. A forward showing wouldn't surprise.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Sandown Park\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":11,\"race_name\":\"Hard Style Rico @ Stud (275+Rank)\",\"time\":\"2024-10-28T11:42:00Z\",\"class\":\"Grade 5 No Penalty\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":3340},\"localised_prizemonies\":{\"AUD\":{\"1st\":2230,\"2nd\":690,\"3rd\":345,\"4th\":75,\"total_value\":3340},\"NZD\":{\"1st\":2431,\"2nd\":752,\"3rd\":376,\"4th\":82,\"total_value\":3641}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"FIGHTING BOXER (8) was midfield throughout and finished there last time when 5th (30.26) at this track. Has ability and can bounce back. WANDANA LAD (4) filled the minor money two on end before breaking through for a deserved win last time, scoring at this track over 515m (29.98). Should feature again. TARGET RANGE (1) has been settling off the speed lately, finishing seventh (26.44) last time in a Grade 4/5 at Warragul. Solid record here winning two races. Solid formlines coming through her last run. A forward showing wouldn't surprise."
+            },
+            "venue_id":"069d069b-b7aa-44a1-a484-64e9701a09f9",
+            "venue_name":"Sandown Park",
+            "venue_state":"VIC",
+            "venue_country":"AUS"
+         },
+         "70528241-b299-4713-9da0-8348e8b14d91":{
+            "race_id":"70528241-b299-4713-9da0-8348e8b14d91",
+            "race_name":"525 Yds (A5)",
+            "race_number":2,
+            "meeting_id":"fe077938-0824-4b01-8c64-5e2971d6e185",
+            "meeting_name":"Youghal",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730114940
+            },
+            "race_form":{
+               "distance":480,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"WITCHES ATLANTA (4) has missed the frame at his last two but did run well three back when third (30.27) in an A6 at this track. Meets a moderate line up and rates on top this time. CANVAS ELLIE (2) had been in great form but was out of the placings last run, finishing fifth (29.75) in an A5 at this track. Generally a safe beginner but never in it last time. Solid record here at the distance winning three races. Leading chance. BOHERASH DREAMER (6) wasn't far away at the finish when 4th and beaten only 2.5 lengths (30.07) at this track. Key player if finds best. HOLLYHILL STELLA (1) has ability and can feature with the right run after missing a cheque here most recently.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Youghal\",\"state\":\"IRE\",\"country\":\"IRE\",\"number\":2,\"race_name\":\"525 Yds (A5)\",\"time\":\"2024-10-28T11:29:00Z\",\"class\":\"A5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":428},\"localised_prizemonies\":{\"AUD\":{\"1st\":218,\"2nd\":113,\"3rd\":97,\"total_value\":428},\"NZD\":{\"1st\":238,\"2nd\":123,\"3rd\":106,\"total_value\":467}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"WITCHES ATLANTA (4) has missed the frame at his last two but did run well three back when third (30.27) in an A6 at this track. Meets a moderate line up and rates on top this time. CANVAS ELLIE (2) had been in great form but was out of the placings last run, finishing fifth (29.75) in an A5 at this track. Generally a safe beginner but never in it last time. Solid record here at the distance winning three races. Leading chance. BOHERASH DREAMER (6) wasn't far away at the finish when 4th and beaten only 2.5 lengths (30.07) at this track. Key player if finds best. HOLLYHILL STELLA (1) has ability and can feature with the right run after missing a cheque here most recently."
+            },
+            "venue_id":"9c8d62cb-4b8c-4415-870d-2f3c929084f7",
+            "venue_name":"Youghal",
+            "venue_state":"IRE",
+            "venue_country":"IRE"
+         },
+         "7e4412de-869d-4744-8a4f-618fe2268efc":{
+            "race_id":"7e4412de-869d-4744-8a4f-618fe2268efc",
+            "race_name":"The Reggies Podcast",
+            "race_number":10,
+            "meeting_id":"cabbd526-4f31-4cf0-a201-23097436769e",
+            "meeting_name":"Rockhampton",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730115540
+            },
+            "race_form":{
+               "distance":407,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+                  "name":"Overcast",
+                  "short_name":"overcast",
+                  "icon_uri":"Overcast"
+               },
+               "weather_id":"0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+               "race_comment":"SORSOGON SMILE (2) is looking to continue her winning ways off a quick 17.89 victory in a Grade 3/4 at Bundaberg. Rates a top chance again if runs up to latest. SHE'S BONNIE (3) turned in a plain run last time when fifth at this track over 407m behind Airborne Beach (24.35) in a Grade 5. Should play a prominent role. RANGER BEACH (1) turned in a plain performance last time when seventh at this track over 407m behind Court Model (24.29) in a Grade 5. Yet to win out of this box but has been in the placings four times from seven starts. One of the main contenders. FLAT BROKE (4) with some luck can improve on an unplaced run last time here.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Rockhampton\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":10,\"race_name\":\"The Reggies Podcast\",\"time\":\"2024-10-28T11:39:00Z\",\"class\":\"5th Grade\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":2400},\"localised_prizemonies\":{\"AUD\":{\"1st\":1560,\"2nd\":480,\"3rd\":240,\"4th\":120,\"total_value\":2400},\"NZD\":{\"1st\":1700,\"2nd\":523,\"3rd\":262,\"4th\":131,\"total_value\":2616}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"SORSOGON SMILE (2) is looking to continue her winning ways off a quick 17.89 victory in a Grade 3/4 at Bundaberg. Rates a top chance again if runs up to latest. SHE'S BONNIE (3) turned in a plain run last time when fifth at this track over 407m behind Airborne Beach (24.35) in a Grade 5. Should play a prominent role. RANGER BEACH (1) turned in a plain performance last time when seventh at this track over 407m behind Court Model (24.29) in a Grade 5. Yet to win out of this box but has been in the placings four times from seven starts. One of the main contenders. FLAT BROKE (4) with some luck can improve on an unplaced run last time here."
+            },
+            "venue_id":"39dd18c2-0b6c-4a15-a8b3-9523ba5706fb",
+            "venue_name":"Rockhampton",
+            "venue_state":"QLD",
+            "venue_country":"AUS"
+         },
+         "8e118c26-644c-4341-84c3-848158cd6022":{
+            "race_id":"8e118c26-644c-4341-84c3-848158cd6022",
+            "race_name":"Colonial Motel Division1",
+            "race_number":9,
+            "meeting_id":"310f67b1-98a9-4a1d-bda1-2464f5d8e88a",
+            "meeting_name":"Launceston",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730114820
+            },
+            "race_form":{
+               "distance":515,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+                  "name":"Fine",
+                  "short_name":"fine",
+                  "icon_uri":"Fine"
+               },
+               "weather_id":"01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+               "race_comment":"LITTLE ZOOM (2) last start finished last in a Other on October 24 over 461m at Hobart behind Cadia Gold beaten 5.5 lengths (26.36). Looks suited here and rates on top. BUCKLE UP GINNA (1) finds it hard to break through. Finished in the minors latest when third (35.12) at this track and may be close to breaking through. Has a good record at this journey. Leading player again. BUCKLE UP ALFIE (8) has shown good improvement at his last two starts, finishing in the money last time when 3rd at this track over 515m. Goes well out of this box with a win and two minor placings. Winning chance. HYPER FORCE (3) is one to consider despite coming off a brief layoff.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Launceston\",\"state\":\"TAS\",\"country\":\"AUS\",\"number\":9,\"race_name\":\"Colonial Motel Division1\",\"time\":\"2024-10-28T11:27:00Z\",\"class\":\"Other\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":4365},\"localised_prizemonies\":{\"AUD\":{\"1st\":2960,\"2nd\":850,\"3rd\":415,\"4th\":140,\"total_value\":4365},\"NZD\":{\"1st\":3226,\"2nd\":927,\"3rd\":452,\"4th\":153,\"total_value\":4758}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"LITTLE ZOOM (2) last start finished last in a Other on October 24 over 461m at Hobart behind Cadia Gold beaten 5.5 lengths (26.36). Looks suited here and rates on top. BUCKLE UP GINNA (1) finds it hard to break through. Finished in the minors latest when third (35.12) at this track and may be close to breaking through. Has a good record at this journey. Leading player again. BUCKLE UP ALFIE (8) has shown good improvement at his last two starts, finishing in the money last time when 3rd at this track over 515m. Goes well out of this box with a win and two minor placings. Winning chance. HYPER FORCE (3) is one to consider despite coming off a brief layoff."
+            },
+            "venue_id":"0eb684d3-8701-4458-b88e-a6b6a15582cb",
+            "venue_name":"Launceston",
+            "venue_state":"TAS",
+            "venue_country":"AUS"
+         },
+         "a5947c14-e28d-4720-b381-14a8b54e55cb":{
+            "race_id":"a5947c14-e28d-4720-b381-14a8b54e55cb",
+            "race_name":"Race 2",
+            "race_number":2,
+            "meeting_id":"d332d0a9-f0f4-416e-929e-37fbce53cebf",
+            "meeting_name":"Swindon Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730114820
+            },
+            "race_form":{
+               "distance":476,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"CHASING MAGS (2) was game in defeat off the inside draw last start, finishing third and beaten 2 lengths (29.25) behind FLICKERING BLUE at this track. Expected to feature in the finish again. FLICKERING BLUE (4) was a course and distance winner (29.09) last time also from the same draw, scoring by 1.75 lengths in an A6. Should be in this for a long way. SNAFFI MOJO (1) turned in a fair 4th placed finish last time at this track over 476m (29.26). Strong form has emerged from her last run. Can do much better this time. FRANCO EVE (3) has been hard to follow lately, running sixth (29.53) last time but prior to that ran very well when placed at this track. Can turn form around here.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Swindon Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":2,\"race_name\":\"Race 2\",\"time\":\"2024-10-28T11:27:00Z\",\"class\":\"A6\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":590},\"localised_prizemonies\":{\"AUD\":{\"1st\":203,\"2nd\":97,\"3rd\":97,\"4th\":97,\"5th\":97,\"total_value\":590},\"NZD\":{\"1st\":221,\"2nd\":106,\"3rd\":106,\"4th\":106,\"5th\":106,\"total_value\":643}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"CHASING MAGS (2) was game in defeat off the inside draw last start, finishing third and beaten 2 lengths (29.25) behind FLICKERING BLUE at this track. Expected to feature in the finish again. FLICKERING BLUE (4) was a course and distance winner (29.09) last time also from the same draw, scoring by 1.75 lengths in an A6. Should be in this for a long way. SNAFFI MOJO (1) turned in a fair 4th placed finish last time at this track over 476m (29.26). Strong form has emerged from her last run. Can do much better this time. FRANCO EVE (3) has been hard to follow lately, running sixth (29.53) last time but prior to that ran very well when placed at this track. Can turn form around here."
+            },
+            "venue_id":"a46b9f0b-45b0-45ec-9e9a-1652c551f0bf",
+            "venue_name":"Swindon Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         },
+         "c4a49f5f-5d1d-4553-b50e-e07f8f4c2420":{
+            "race_id":"c4a49f5f-5d1d-4553-b50e-e07f8f4c2420",
+            "race_name":"Gorski Aluminiium Tippers",
+            "race_number":7,
+            "meeting_id":"681eb694-2067-4037-8bd4-950157bf509a",
+            "meeting_name":"Albion Park",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730115060
+            },
+            "race_form":{
+               "distance":520,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "weather":{
+                  "id":"5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+                  "name":"OCAST",
+                  "short_name":"ocast",
+                  "icon_uri":"OCAST"
+               },
+               "weather_id":"5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+               "race_comment":"ARBELA (1) missed the frame last time when fifth (30.67) at this track but prior to that had two placings in a row. Has ability and can bounce back. INDIAN RUPEE (3) has been in sparkling form scoring back to back wins, the latest by 2 lengths (23.12) over 395m at this track. Form from her last run is proving to be solid. Hard to fault her form and she makes plenty of appeal. SHIMMERING LIGHT (5) started big odds last time but hit the ground running with a slick early split, giving a sight but fading out of it to finish fourth (30.28) at this track over 520m. Consistent performer from this draw with a win and three minor placings to his credit. One of the main contenders. ELLIE RHEE COURT (8) with some luck can improve on an unplaced run last time here.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Albion Park\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":7,\"race_name\":\"Gorski Aluminiium Tippers\",\"time\":\"2024-10-28T11:31:00Z\",\"class\":\"5th Grade\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":5400},\"localised_prizemonies\":{\"AUD\":{\"1st\":3510,\"2nd\":1080,\"3rd\":540,\"4th\":270,\"total_value\":5400},\"NZD\":{\"1st\":3826,\"2nd\":1177,\"3rd\":589,\"4th\":294,\"total_value\":5886}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"ARBELA (1) missed the frame last time when fifth (30.67) at this track but prior to that had two placings in a row. Has ability and can bounce back. INDIAN RUPEE (3) has been in sparkling form scoring back to back wins, the latest by 2 lengths (23.12) over 395m at this track. Form from her last run is proving to be solid. Hard to fault her form and she makes plenty of appeal. SHIMMERING LIGHT (5) started big odds last time but hit the ground running with a slick early split, giving a sight but fading out of it to finish fourth (30.28) at this track over 520m. Consistent performer from this draw with a win and three minor placings to his credit. One of the main contenders. ELLIE RHEE COURT (8) with some luck can improve on an unplaced run last time here."
+            },
+            "venue_id":"12c496d8-9397-4ba4-ba3c-d34ca3625858",
+            "venue_name":"Albion Park",
+            "venue_state":"QLD",
+            "venue_country":"AUS"
+         },
+         "dddd78be-bca2-4dbf-91d5-51ea6cc12711":{
+            "race_id":"dddd78be-bca2-4dbf-91d5-51ea6cc12711",
+            "race_name":"Like And Follow Us On Twitter @Romforddogs",
+            "race_number":3,
+            "meeting_id":"34516386-8a0b-4643-8950-bff481b7aa6f",
+            "meeting_name":"Romford Bags",
+            "category_id":"9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+            "advertised_start":{
+               "seconds":1730115240
+            },
+            "race_form":{
+               "distance":400,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+                  "name":"Good",
+                  "short_name":"good"
+               },
+               "track_condition_id":"10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+               "race_comment":"PRIVATE JESS (4) followed a moderate fifth at this track two runs ago with another plain effort last time to finish fifth, beaten 9 lengths, in an A5 at this track over 400m (25.17). No surprise to see her back in form. LETSGOLUCKY (6) is a capable type and proved too classy last time to win by 4 lengths at this track in a handy 24.41 beating Delsie. Looks to have an edge on most of these. ROUGH RINGO (2) recorded his best time this course and distance latest, finishing a 2.75 lengths third behind Aero Title in 24.59. Rates a leading chance if runs up to latest. KEEPERHILL VIKKI (3) is in the mix despite finishing out of the placings here last start.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Romford Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":3,\"race_name\":\"Like And Follow Us On Twitter @Romforddogs\",\"time\":\"2024-10-28T11:34:00Z\",\"class\":\"A6\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":793},\"localised_prizemonies\":{\"AUD\":{\"1st\":261,\"2nd\":106,\"3rd\":106,\"4th\":106,\"5th\":106,\"6th\":106,\"total_value\":793},\"NZD\":{\"1st\":284,\"2nd\":116,\"3rd\":116,\"4th\":116,\"5th\":116,\"6th\":116,\"total_value\":864}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"PRIVATE JESS (4) followed a moderate fifth at this track two runs ago with another plain effort last time to finish fifth, beaten 9 lengths, in an A5 at this track over 400m (25.17). No surprise to see her back in form. LETSGOLUCKY (6) is a capable type and proved too classy last time to win by 4 lengths at this track in a handy 24.41 beating Delsie. Looks to have an edge on most of these. ROUGH RINGO (2) recorded his best time this course and distance latest, finishing a 2.75 lengths third behind Aero Title in 24.59. Rates a leading chance if runs up to latest. KEEPERHILL VIKKI (3) is in the mix despite finishing out of the placings here last start."
+            },
+            "venue_id":"559f865c-f6e5-47e0-8881-fe6c92f4a508",
+            "venue_name":"Romford Bags",
+            "venue_state":"UK",
+            "venue_country":"UK"
+         },
+         "e8d85333-d454-46ac-8010-fb55e7d8b3cf":{
+            "race_id":"e8d85333-d454-46ac-8010-fb55e7d8b3cf",
+            "race_name":"Foret De Coye Handicap",
+            "race_number":3,
+            "meeting_id":"3e8e3c04-7bb1-4414-8a57-6de1964e263e",
+            "meeting_name":"Chantilly",
+            "category_id":"4a2788f8-e825-4d36-9894-efd4baf1cfae",
+            "advertised_start":{
+               "seconds":1730115300
+            },
+            "race_form":{
+               "distance":3200,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "track_condition":{
+                  "id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+                  "name":"Synthetic",
+                  "short_name":"synthetic"
+               },
+               "track_condition_id":"9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+               "weather":{
+                  "id":"5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+                  "name":"OCAST",
+                  "short_name":"ocast",
+                  "icon_uri":"OCAST"
+               },
+               "weather_id":"5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+               "race_comment":"Supplemented runner TARCENAY (1) is selected to complete a double following a 0.5L triumph over 2400m at Toulouse. MY DARLING (11) has placed second on each of her last five starts including in a 3000m handicap at Vichy. Expected to deliver another big effort. CHONBURI (5) enters calculations following a 1.25L fourth when contesting a 2400m handicap at Saint-Cloud. THE ROOM (4) is another with claims following an 11L fifth at Lyon-Parilly.",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Chantilly\",\"state\":\"FR\",\"country\":\"FR\",\"number\":3,\"race_name\":\"Foret De Coye Handicap\",\"time\":\"2024-10-28T11:35:00Z\",\"class\":\"HCP CL3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":32310},\"localised_prizemonies\":{\"AUD\":{\"1st\":16155,\"2nd\":6462,\"3rd\":4847,\"4th\":3231,\"5th\":1616,\"total_value\":32310},\"NZD\":{\"1st\":17609,\"2nd\":7044,\"3rd\":5283,\"4th\":3522,\"5th\":1761,\"total_value\":35218}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Synthetic\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"Supplemented runner TARCENAY (1) is selected to complete a double following a 0.5L triumph over 2400m at Toulouse. MY DARLING (11) has placed second on each of her last five starts including in a 3000m handicap at Vichy. Expected to deliver another big effort. CHONBURI (5) enters calculations following a 1.25L fourth when contesting a 2400m handicap at Saint-Cloud. THE ROOM (4) is another with claims following an 11L fifth at Lyon-Parilly."
+            },
+            "venue_id":"7a9f62f7-beec-4474-b7f7-c1538b18f4e2",
+            "venue_name":"Chantilly",
+            "venue_state":"FR",
+            "venue_country":"FR"
+         },
+         "ecf36050-c47e-4f8a-ba3d-337ba9d23b1a":{
+            "race_id":"ecf36050-c47e-4f8a-ba3d-337ba9d23b1a",
+            "race_name":"Tack Alla Sponsorer - Nya Travskolan",
+            "race_number":2,
+            "meeting_id":"1ebae6bb-5043-4084-ab2f-897389082ec4",
+            "meeting_name":"Arjang",
+            "category_id":"161d9be2-e909-4326-8c2c-35ed71fb460b",
+            "advertised_start":{
+               "seconds":1730115720
+            },
+            "race_form":{
+               "distance":2140,
+               "distance_type":{
+                  "id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+                  "name":"Metres",
+                  "short_name":"m"
+               },
+               "distance_type_id":"570775ae-09ec-42d5-989d-7c8f06366aa7",
+               "race_comment":"ROKKE FAXA (10) Brave effort to win narrowly last run at Amal. Will give a big sight. LYSENG OSKAR (5) Finished 7th last time at Bjerke. Has the ability to turn things around and gets the perfect draw. Producing consistent results this season but back to a shorter distance. Winnable race. CASANOVA N. O. (3) Just missed last start at Amal. Looking for an improved run. Key player. MAJ MOLLYN (8) Did well when 3rd last start at Amal. Can win",
+               "additional_data":"{\"revealed_race_info\":{\"track_name\":\"Arjang\",\"state\":\"SWE\",\"country\":\"SWE\",\"number\":2,\"race_name\":\"Tack Alla Sponsorer - Nya Travskolan\",\"time\":\"2024-10-28T11:42:00Z\",\"class\":\"3UP - SS\",\"start_type\":\"Mobile\",\"prizemonies\":{\"1st\":20000,\"2nd\":10000,\"3rd\":7500,\"4th\":6000,\"5th\":5000,\"6th\":4000,\"7th\":3000,\"8th\":3000},\"localised_prizemonies\":null,\"rail_position\":\"\",\"track_direction\":\"\",\"track_surface\":\"\",\"group\":\"\",\"gait\":\"Trot\",\"track_home_straight_metres\":0,\"track_circumference\":0}}",
+               "generated":1,
+               "silk_base_url":"drr38safykj6s.cloudfront.net",
+               "race_comment_alternative":"ROKKE FAXA (10) Brave effort to win narrowly last run at Amal. Will give a big sight. LYSENG OSKAR (5) Finished 7th last time at Bjerke. Has the ability to turn things around and gets the perfect draw. Producing consistent results this season but back to a shorter distance. Winnable race. CASANOVA N. O. (3) Just missed last start at Amal. Looking for an improved run. Key player. MAJ MOLLYN (8) Did well when 3rd last start at Amal. Can win"
+            },
+            "venue_id":"e85889ea-81da-4584-801b-e71377558b07",
+            "venue_name":"Arjang",
+            "venue_state":"SWE",
+            "venue_country":"SWE"
+         }
+      }
+   },
+   "message":"Next 10 races from each category"
+}
